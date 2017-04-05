@@ -113,5 +113,6 @@ menu=1
 	echo "9) sair"
  
 [ $menu == 1 ] && carquivo
-
+[ $menu == 2 ] && aarquivo
+[ $
 
